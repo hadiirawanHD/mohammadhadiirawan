@@ -11,7 +11,7 @@ return (
 <h1>Tentang Kami</h1>
 <h5>Mahasiswa Stikom Banyuwangi</h5>
 <p>Nama  : Mohammad Hadi Irawan</p>
-<P>Tempat, Tgl Lahir : Banyuwangi, 29 November 1999</P>
+<p>Tempat, Tgl Lahir : Banyuwangi, 29 November 1999</p>
 <p>Jenis Kelamin : Laki-Laki</p>
 <p>Agama : Islam</p>
 <p>Alamat : Jl.Citarum 34 Panderejo Banyuwangi</p>
